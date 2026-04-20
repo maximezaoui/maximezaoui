@@ -56,10 +56,6 @@ What defines my work:
 - strong execution discipline
 - product and business awareness
 
-## Current Goal
-
-I am building a strong public portfolio of clean, professional, and production-ready projects to support opportunities in web development, product-oriented roles, and technical project delivery.
-
 ## Contact
 
 - Email: [zaoui.maxime@gmail.com](mailto:zaoui.maxime@gmail.com)
