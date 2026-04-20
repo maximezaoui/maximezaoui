@@ -63,5 +63,5 @@ I am building a strong public portfolio of clean, professional, and production-r
 ## Contact
 
 - Email: [zaoui.maxime@gmail.com](mailto:zaoui.maxime@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/maxime-zaoui-935a20204/]
+- LinkedIn: https://www.linkedin.com/in/maxime-zaoui-935a20204/
 - Portfolio: [portfolio here](#)
