@@ -1,27 +1,56 @@
 # Maxime Zaoui
 
-Full-stack developer building production-ready web apps, workflows, and digital systems.
+Full-stack developer building production-ready web apps, systems, and structured digital workflows.
 
 ## About
 
-I design and build digital products with a strong focus on structure, clarity, and execution.
+I design and build digital products with a strong focus on structure, clarity, execution, and delivery.
 
 My work combines:
 - web development
 - product thinking
 - automation
 - workflow design
+- reusable systems
 - delivery-ready implementation
 
-I care about creating projects that are not only functional, but also clean, scalable, and professionally presented.
+I focus on building projects that are not only functional, but also scalable, maintainable, and professionally structured.
 
-## Focus
+## What I work on
 
 - Full-stack web applications
 - Business and marketing websites
 - Internal tools and workflow systems
-- Automation and process structuring
-- Production-ready digital delivery
+- Design systems and reusable foundations
+- Production-ready delivery infrastructure
+
+## How I work
+
+My approach is workflow-driven and delivery-focused.
+
+I care about:
+- clear project structure
+- reusable systems
+- clean documentation
+- process standardization
+- scalable implementation
+- professional presentation
+
+I build with a strong emphasis on method, not just output.
+
+## Featured ecosystems
+
+### LuxFlow
+A structured ecosystem focused on workflows, reusable systems, project standards, UI foundations, and production-oriented delivery.
+
+### ZAZO Beats
+A production website project currently in final closure phase, focused on clean delivery, deployment, and professional presentation.
+
+### ArtCeption
+A data-driven website project currently being prepared as the next structured production build.
+
+### AVNIR-Studio
+A larger digital ecosystem combining product vision, modular architecture, app structuring, and design system logic.
 
 ## Tech
 
@@ -37,27 +66,17 @@ GitHub · Vercel · Stripe · Webflow · Shopify
 **Other**  
 Flutter · Dart · SEO · Product structuring · Workflow design
 
-## Featured work
+## What defines my work
 
-I use GitHub to showcase selected projects, systems, and technical workflows with a strong focus on quality, structure, and real-world execution.
-
-Highlighted repositories include:
-- web projects and production websites
-- workflow-driven systems
-- automation and tooling
-- product and architecture case studies
-
-## Approach
-
-What defines my work:
-- clear project structure
-- professional presentation
-- reusable systems
-- strong execution discipline
-- product and business awareness
+- Product and business awareness
+- Strong execution discipline
+- Clear technical structure
+- Reusable and scalable systems
+- Professional project presentation
+- Process-oriented thinking
 
 ## Contact
 
 - Email: [zaoui.maxime@gmail.com](mailto:zaoui.maxime@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/maxime-zaoui-935a20204/
-- Portfolio: [portfolio here](#)
+- LinkedIn: [maxime-zaoui-935a20204](https://www.linkedin.com/in/maxime-zaoui-935a20204/)
+- Portfolio: [Coming soon](#)
