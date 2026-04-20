@@ -1,16 +1,67 @@
-## Hi there 👋
+# Maxime Zaoui
 
-<!--
-**maximezaoui/maximezaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building production-ready web apps, workflows, and digital systems.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and build digital products with a strong focus on structure, clarity, and execution.
+
+My work combines:
+- web development
+- product thinking
+- automation
+- workflow design
+- delivery-ready implementation
+
+I care about creating projects that are not only functional, but also clean, scalable, and professionally presented.
+
+## Focus
+
+- Full-stack web applications
+- Business and marketing websites
+- Internal tools and workflow systems
+- Automation and process structuring
+- Production-ready digital delivery
+
+## Tech
+
+**Frontend**  
+Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+
+**Backend / Data**  
+Supabase · Firebase · PostgreSQL · REST APIs
+
+**Tools / Delivery**  
+GitHub · Vercel · Stripe · Webflow · Shopify
+
+**Other**  
+Flutter · Dart · SEO · Product structuring · Workflow design
+
+## Featured work
+
+I use GitHub to showcase selected projects, systems, and technical workflows with a strong focus on quality, structure, and real-world execution.
+
+Highlighted repositories include:
+- web projects and production websites
+- workflow-driven systems
+- automation and tooling
+- product and architecture case studies
+
+## Approach
+
+What defines my work:
+- clear project structure
+- professional presentation
+- reusable systems
+- strong execution discipline
+- product and business awareness
+
+## Current Goal
+
+I am building a strong public portfolio of clean, professional, and production-ready projects to support opportunities in web development, product-oriented roles, and technical project delivery.
+
+## Contact
+
+- Email: [zaoui.maxime@gmail.com](mailto:zaoui.maxime@gmail.com)
+- LinkedIn: [Add your LinkedIn here](#)
+- Portfolio: [Add your portfolio here](#)
